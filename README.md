@@ -1,6 +1,4 @@
 # 💫 About Me:
-<div style="text-align: justify">
-
 
 Hello! I'm **Sarang Mistry**, a dedicated Computer Science student at the University of Houston, set to graduate in December 2024. My expertise spans across **Web Development**, **Data Science**, and **Artificial Intelligence**, where I strive to create innovative solutions that solve real-world problems. 
 
@@ -8,7 +6,6 @@ With a strong foundation in **full-stack development** and a passion for AI-driv
 
 I’m always eager to collaborate on projects that push boundaries and allow me to leverage my skills to build impactful solutions. Whether it's web development, AI applications, or data-driven insights, I'm excited to connect and work with like-minded individuals to bring creative ideas to life. Feel free to explore my portfolio or reach out for potential collaborations!
 
-</div>
 
 ## 🌐 Socials:
 
